@@ -264,10 +264,10 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 | | |
 |---|---|
-| 📧 Email | devaprasathdevaprasath57@gmail.com |
-| 🐙 GitHub | [github.com/devaprasathj](https://github.com/devaprasathj) |
-| 💼 LinkedIn | [linkedin.com/in/devaprasath-j-1a1482297](https://linkedin.com/in/devaprasath-j-1a1482297) |
-| 🌐 Portfolio | [your-portfolio.com](https://your-portfolio.com) |
+| 📧 Email | dharsankumar0216@gmail.com |
+| 🐙 GitHub | [github.com/dharsankumar-rk](https://github.com/dharsankumar-rk) |
+| 💼 LinkedIn | [linkedin.com/in/dharsankumar-r-k-b3445128b](https://www.linkedin.com/in/dharsankumar-r-k-b3445128b) |
+| 🌐 Portfolio | [dharsankumar.portfolio](https://dharsankumar.netlify.app/) |
 
 ---
 
